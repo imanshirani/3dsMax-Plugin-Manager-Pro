@@ -31,7 +31,7 @@ Developed by: **Iman Shirani**
 
 1.  **Clone the Repository**:
     ```bash
-    git clone [https://github.com/imanshirani/3dsMax-Plugin-Manager-Pro.git](https://github.com/imanshirani/3dsMax-Plugin-Manager-Pro.git)
+    git clone [https://github.com/imanshirani/3dsMax-Plugins-Manager-Pro.git](https://github.com/imanshirani/3dsMax-Plugins-Manager-Pro.git)
     ```
 2.  **Run in 3ds Max**:
     * Open 3ds Max (Run as **Administrator** to allow file renaming in Program Files).
