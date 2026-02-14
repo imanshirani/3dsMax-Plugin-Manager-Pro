@@ -1,7 +1,8 @@
 import os
 import json
 import sys
-from pymxs import runtime as rt
+import pymxs
+rt = pymxs.runtime
 
 
 

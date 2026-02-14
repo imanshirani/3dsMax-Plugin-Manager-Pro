@@ -31,7 +31,9 @@ importlib.reload(pluginmanager)
 from PySide6.QtWidgets import QApplication, QListWidgetItem
 from PySide6.QtCore import Qt
 from qtmax import GetQMaxMainWindow
-from pymxs import runtime as rt
+#from pymxs import runtime as rt
+import pymxs
+rt = pymxs.runtime
 from UI import MainUI
 from pluginmanager import PluginManagerLogic
 
