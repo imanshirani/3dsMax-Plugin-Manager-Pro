@@ -58,7 +58,7 @@ class MainUI(QMainWindow):
 
         self.btn_save = QPushButton("Save Configuration")
         self.btn_save.setObjectName("SaveBtn")
-        self.btn_launch = QPushButton("APPLY & CLOSE")
+        self.btn_launch = QPushButton("APPLY && CLOSE")
         self.btn_launch.setObjectName("ApplyBtn")
         
         self.right_col.addWidget(self.btn_save)
