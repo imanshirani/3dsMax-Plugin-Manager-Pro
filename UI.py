@@ -4,7 +4,7 @@ from PySide6.QtCore import Qt
 class MainUI(QMainWindow):
     def __init__(self, parent=None): 
         super(MainUI, self).__init__(parent) 
-        self.setWindowTitle("3DSMax Plugin Manager Pro")
+        self.setWindowTitle("Max Plugin Manager Pro")
         self.setMinimumSize(850, 600)
         
 
@@ -58,7 +58,7 @@ class MainUI(QMainWindow):
 
         self.btn_save = QPushButton("Save Configuration")
         self.btn_save.setObjectName("SaveBtn")
-        self.btn_launch = QPushButton("APPLY && CLOSE")
+        self.btn_launch = QPushButton("APPLY & CLOSE")
         self.btn_launch.setObjectName("ApplyBtn")
         
         self.right_col.addWidget(self.btn_save)
