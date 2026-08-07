@@ -9,7 +9,7 @@ Developed by: **Iman Shirani**
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/GUI-PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)
-![Version](https://img.shields.io/badge/version-0.0.1-orange)
+![Version](https://img.shields.io/badge/version-0.0.2-orange)
 
 
 ![screenshot](3dsmaxpluginmager.png)
